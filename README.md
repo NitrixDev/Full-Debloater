@@ -279,7 +279,7 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 .\FullDebloat.ps1
 ```
 
-6. The Win11Debloat menu will now open. Select either the default or custom setup to continue.
+6. The FullDebloater menu will now open. Select either the default or custom setup to continue.
 7. Carefully read through and follow the on-screen instructions.
 
 This method supports [parameters](#parameters). To use parameters simply run the script as explained above, but add the parameters at the end with spaces in between. Example:
