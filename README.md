@@ -253,8 +253,8 @@ This method supports [parameters](#parameters). To use parameters simply run the
 
 Manually download & run the script.
 
-1. [Download the latest version of the script](https://github.com/Raphire/Win11Debloat/archive/master.zip), and extract the .ZIP file to your desired location.
-2. Navigate to the Win11Debloat folder
+1. [Download the latest version of the script]([https://github.com/Raphire/Win11Debloat/archive/master.zip](https://github.com/NitrixDev/Full-Debloater/archive/refs/heads/main.zip)), and extract the .ZIP file to your desired location.
+2. Navigate to the FullDebloat folder
 3. Double click the `Run.bat` file to start the script. NOTE: If the console window immediately closes and nothing happens, try the advanced method below.
 4. Accept the Windows UAC prompt to run the script as administrator, this is required for the script to function.
 5. A new PowerShell window will now open showing the Win11Debloat menu. Select either the default or custom mode to continue.
@@ -264,7 +264,7 @@ Manually download & run the script.
 
 Manually download the script & run the script via PowerShell. Only recommended for advanced users.
 
-1. [Download the latest version of the script](https://github.com/Raphire/Win11Debloat/archive/master.zip), and extract the .ZIP file to your desired location.
+1. [Download the latest version of the script]([https://github.com/Raphire/Win11Debloat/archive/master.zip](https://github.com/NitrixDev/Full-Debloater/archive/refs/heads/main.zip)), and extract the .ZIP file to your desired location.
 2. Open PowerShell as an administrator.
 3. Enable PowerShell execution by entering the following command:
 
@@ -276,7 +276,7 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 5. Now run the script by entering the following command:
 
 ```PowerShell
-.\Win11Debloat.ps1
+.\FullDebloat.ps1
 ```
 
 6. The Win11Debloat menu will now open. Select either the default or custom setup to continue.
@@ -285,7 +285,7 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 This method supports [parameters](#parameters). To use parameters simply run the script as explained above, but add the parameters at the end with spaces in between. Example:
 
 ```PowerShell
-.\Win11Debloat.ps1 -RemoveApps -DisableBing -Silent
+.\FullDebloat.ps1 -RemoveApps -DisableBing -Silent
 ```
 
 ### Parameters
